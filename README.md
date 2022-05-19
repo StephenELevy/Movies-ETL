@@ -45,4 +45,12 @@
 ## directory. You will also need a copy of the ratings.csv file in order
 ## for the scripts to execute correctly.
 
+## The row counts for the "movies" and "ratings" tables in the "movie_data"
+## database are displayed on the right side of the screen captures.
+## Please look again.
+
 ## Thank You! Stephen Levy
+
+
+![screen capture showing "movies" table row count in database "movie_data"](./Resources/movies_query.PNG)
+![screen capture showing "ratings" table row count in database "movie_data"](./Resources/ratings_query.PNG)
